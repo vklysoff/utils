@@ -1,3 +1,3 @@
-module github.com/vklysoff/utils
+module github.com/vklysoff/utils/v2
 
 go 1.19
